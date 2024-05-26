@@ -1,0 +1,16 @@
+streamlit
+requests
+streamlit_lottie
+PIL
+json
+joblib
+numpy
+pandas
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.metrics
+sklearn.neighbors
+sys
+traceback
+geopandas
+matplotlib.pyplot
