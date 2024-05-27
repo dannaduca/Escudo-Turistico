@@ -6,12 +6,8 @@ simplejson
 joblib
 numpy
 pandas
-sklearn.preprocessing
 scikit-learn
-sklearn.model_selection
-sklearn.metrics
-sklearn.neighbors
 sys
 traceback
 geopandas
-matplotlib.pyplot
+matplotlib
