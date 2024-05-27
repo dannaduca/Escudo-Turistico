@@ -1,7 +1,7 @@
 streamlit
 requests
 streamlit_lottie
-PIL
+pillow
 json
 joblib
 numpy
